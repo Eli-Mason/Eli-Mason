@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Eli Mason.
+- 👀 I’m interested in computer networking.
+- 🌱 I’m currently learning to configure Cisco networking devices and program in Python and C++.
+- 📫 Reach me at elimasontech@icloud.com
+
+<!---
+Eli-Mason/Eli-Mason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
