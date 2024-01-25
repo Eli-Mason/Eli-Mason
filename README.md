@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Eli Mason.
 - 👀 I’m interested in computer networking.
 - 🌱 I’m currently learning to configure Cisco networking devices and program in Python and C++.
+- 🛠️ I'm working on a new internet protocol called DPNP.
 - 📫 Reach me at elimasontech@icloud.com
 
 <!---
