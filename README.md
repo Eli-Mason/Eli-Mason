@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eli Mason.
+- 👋 Hi, I’m Eli Mason, a CCNA certified netowrk engineering enthusiast.
 - 👀 I’m interested in computer networking.
 - 🌱 I’m currently learning to configure Cisco networking devices and program in Python and C++.
 - 🛠️ I'm working on a new internet protocol called DPNP.
